@@ -161,5 +161,4 @@ Sonunda şifreyi bulduk ve bir sonraki levele geçebiliriz.
 
 <hr/>
 
-Hata ve geri dönüşler için: *[ersagun@ersaguntosun.com ]
-(mailto:ersagun@ersaguntosun.com)*          
+Hata ve geri dönüşler için: *[ersagun@ersaguntosun.com](mailto:ersagun@ersaguntosun.com)*   
