@@ -18,18 +18,18 @@ www. `---` ver     '---' he       '---" ire.org
 ### Leveller 
 |Birinci Bölüm              |İkinci Bölüm               |Üçüncü Bölüm               |
 |---------------------------|---------------------------|---------------------------|
-|[*Bandit  -1*][-1]         |[*Bandit 10 ->11*][10]     |[*Bandit 22 ->23*][22]     |
-|[*Bandit 0 ->1*][0]        |[*Bandit 11 ->12*][11]     |[*Bandit 23 ->24*][23]     |
-|[*Bandit 1 ->2*][1]        |[*Bandit 12 ->13*][12]     |[*Bandit 24 ->25*][24]     |
-|[*Bandit 2 ->3*][2]        |[*Bandit 13 ->14*][13]     |[*Bandit 25 ->26*][25]     |
-|[*Bandit 3 ->4*][3]        |[*Bandit 14 ->15*][14]     |[*Bandit 26 ->27*][26]     |
-|[*Bandit 4 ->5*][4]        |[*Bandit 15 ->16*][15]     |[*Bandit 27 ->28*][27]     |
-|[*Bandit 5 ->6*][5]        |[*Bandit 16 ->17*][16]     |[*Bandit 28 ->29*][28]     |
-|[*Bandit 6 ->7*][6]        |[*Bandit 17 ->18*][17]     |[*Bandit 29 ->30*][29]     |
-|[*Bandit 7 ->8*][7]        |[*Bandit 18 ->19*][18]     |[*Bandit 30 ->31*][30]     |
-|[*Bandit 8 ->9*][8]        |[*Bandit 19 ->20*][19]     |[*Bandit 31 ->32*][31]     |
-|[*Bandit 9 ->10*][9]       |[*Bandit 20 ->21*][20]     |[*Bandit 32 ->33*][32]     |
-|[*Bandit 10 ->11*][10]     |[*Bandit 21 ->22*][21]     |[*Bandit 33 ->34*][33]     |
+|[*Bandit  -1*][-1]         |[*Bandit 11 ->12*][11]     |[*Bandit 23 ->23*][23]     |
+|[*Bandit 0 ->1*][0]        |[*Bandit 12 ->13*][12]     |[*Bandit 24 ->24*][24]     |
+|[*Bandit 1 ->2*][1]        |[*Bandit 13 ->14*][13]     |[*Bandit 25 ->25*][25]     |
+|[*Bandit 2 ->3*][2]        |[*Bandit 14 ->15*][14]     |[*Bandit 26 ->26*][26]     |
+|[*Bandit 3 ->4*][3]        |[*Bandit 15 ->16*][15]     |[*Bandit 27 ->27*][27]     |
+|[*Bandit 4 ->5*][4]        |[*Bandit 16 ->17*][16]     |[*Bandit 28 ->28*][28]     |
+|[*Bandit 5 ->6*][5]        |[*Bandit 17 ->18*][17]     |[*Bandit 29 ->29*][29]     |
+|[*Bandit 6 ->7*][6]        |[*Bandit 18 ->19*][18]     |[*Bandit 30 ->30*][30]     |
+|[*Bandit 7 ->8*][7]        |[*Bandit 19 ->20*][19]     |[*Bandit 31 ->31*][31]     |
+|[*Bandit 8 ->9*][8]        |[*Bandit 20 ->21*][20]     |[*Bandit 32 ->32*][32]     |
+|[*Bandit 9 ->10*][9]       |[*Bandit 21 ->22*][21]     |[*Bandit 33 ->33*][33]     |
+|[*Bandit 10 ->11*][10]     |[*Bandit 22 ->23*][22]     |                           |
 
 [-1]:https://github.com/ErsaGunTosun/OverTheWire/blob/master/bandit_-1.md
 [0]:https://github.com/ErsaGunTosun/OverTheWire/blob/master/bandit_00.md
